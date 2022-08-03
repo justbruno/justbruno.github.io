@@ -16,10 +16,13 @@ Education
 * Ph. D. in Computer Science (Cum Laude), Universidad Politécnica de Madrid, 2018.
 * Select courses in pure mathematics, Universidad Española de Educación a Distancia, 2015-2018.
 
-Relevant work experience (non-academic)
+Relevant work experience
 ======
-- 2012/13. Innovation intern at Ericsson Spain.
+- Currently Lecturer in Computer Science at Queen Mary University of London.
+- 2018/21. Postdoctoral researcher at Aalto University (under Prof. Aristides Gionis).
+- 2014/15. Research assistant at Universidad Politécnica de Madrid.
 - During my Master's and Ph.D. studies I carried out managerial duties for two European Commission research projects: FP7-ONTIC and H2020-CogNet.
+- 2012/13. Innovation intern at Ericsson Spain.
 
 
 Service
