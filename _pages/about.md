@@ -18,4 +18,6 @@ I am a Lecturer (Assistant Professor) of Computer Science at Queen Mary Universi
 
 - **Machine Learning**. I have done work on areas of machine learning, such as kernel methods and deep learning applications. [ECML-PKDD '20](https://arxiv.org/abs/2006.13567), [PLOS one '18](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191939).
 
+I also like to write <a href="/code/">efficient Python code</a> for fast prototyping and experimentation.
+
 Don't hesitate to send me an e-mail if you want to work with me or discuss any of my works.
