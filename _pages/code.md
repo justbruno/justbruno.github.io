@@ -18,7 +18,7 @@ Optimizing Gaussian kernel bandwidth for $k$-means clustering, using fast elemen
 
 <h2>Teaching code</h2>
 <a href="https://github.com/brunez/dl_workshop_upm">Introductory Deep Learning workshop</a>:
-When I was a Ph.D. student I taught a workshop to introduce udnergrads to Deep Learning. This repo contains the notebooks I used.
+When I was a Ph.D. student I taught a workshop to introduce undergrads to Deep Learning. This repo contains the notebooks I used.
 
-<a href="https://github.com/justbruno/signal_processing_notebook/blob/main/signal_processing.ipynb">Understanding the Discrete Fourier and Discrete Wavelet transforms.</a>:
+<a href="https://github.com/justbruno/signal_processing_notebook/blob/main/signal_processing.ipynb">Understanding the Discrete Fourier and Discrete Wavelet transforms</a>:
 A notebook I use in my lectures to help the students understand some signal processing basics.
