@@ -2,6 +2,7 @@
 - Test locally: bundle exec jekyll liveserve
 - Main page content: _pages/about.md
 - To add op-menu items: _data/navigation.yml
+- To add publications, edit _pages/pubs.md
 
 
 
