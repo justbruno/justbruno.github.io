@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) of Computer Science at Queen Mary University of London. My research is focused on various aspects of Algorithms and Data Science.
+For years I enjoyed a fruitful and edifying academic career. My research was focused on various aspects of Algorithms, Machine Learning and Data Science. My last position was as a Lecturer (Assistant Professor) of Computer Science at Queen Mary University of London.
+
+Currently I am working in industry. I am enjoying the process of putting my theoretical knowledge to the test in practical, "real-world" problems. However, I try to remain active in research by staying in touch with my fellow academics and through personal projects.
+
+An overview of my research:
 
 - **Graph Mining**: I am interested in problems motivated by social networks, such as community detection, polarization and opinion formation. I tend to like spectral approaches. [NeurIPS '20](https://proceedings.neurips.cc/paper/2020/hash/7cc538b1337957dae283c30ad46def38-Abstract.html), [WWW '20](https://arxiv.org/abs/2001.09410), [WWW '20](https://arxiv.org/abs/2002.00775), [CIKM '19](https://arxiv.org/abs/1910.02438).
 
