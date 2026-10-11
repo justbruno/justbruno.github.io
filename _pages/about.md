@@ -10,7 +10,7 @@ redirect_from:
 
 For years I enjoyed a fruitful and edifying academic career. My research was focused on various aspects of Algorithms, Machine Learning and Data Science. My last position was as a Lecturer (Assistant Professor) of Computer Science at Queen Mary University of London.
 
-Currently I am working in industry. I am enjoying the process of putting my theoretical knowledge to the test in practical, "real-world" problems. However, I try to remain active in research by staying in touch with my fellow academics and through personal projects.
+Currently I am working at Apple as a Music Data Engineer. I am enjoying the process of putting my theoretical knowledge to the test in practical, "real-world" problems. However, I try to remain active in research by staying in touch with my fellow academics and through personal projects.
 
 An overview of my research:
 
